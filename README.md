@@ -1,6 +1,6 @@
 # tictactoe
 
-A new Flutter project.
+This is complete code my gaming project TICTACTOE. Created using flutter and dart as a language.
 
 ## Getting Started
 
